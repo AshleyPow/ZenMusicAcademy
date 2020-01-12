@@ -1631,6 +1631,7 @@ label.required:after {
 
 .sidebar_outer_right .body_wrap {
     padding-right: 290px;
+    color: #393e46;
 }
 
 .sidebar_outer .logo img {
@@ -1694,6 +1695,7 @@ label.required:after {
 
 .top_panel_wrap {
     position: relative;
+    color: #393e46;
 }
 
 .top_panel_fixed .top_panel_wrap {
@@ -3040,6 +3042,7 @@ body:not(.top_panel_fixed) .top_panel_style_5 .top_panel_middle .menu_main_wrap 
     position: relative;
     z-index: 10003;
     display: none;
+    color: #393e46;
 }
 
 .header_mobile .top_panel_fixed_wrap {
@@ -3088,7 +3091,7 @@ body:not(.top_panel_fixed) .top_panel_style_5 .top_panel_middle .menu_main_wrap 
 }
 
 .header_mobile .menu_button, .header_mobile .menu_main_cart .top_panel_cart_button .contact_icon {
-    background-color: transparent!important;
+    background-color: #393e46;
     font-size: 26px;
     height: auto;
     width: auto;

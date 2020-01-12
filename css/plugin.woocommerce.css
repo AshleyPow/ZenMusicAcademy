@@ -945,7 +945,7 @@ div.pp_woocommerce .pp_arrow_next, div.pp_woocommerce .pp_arrow_previous {
 .woocommerce .widget_price_filter .price_label {}
 
 .woocommerce .widget_price_filter .price_label span {
-    color: #59c6bc;
+    color: #333745;
 }
 
 .woocommerce .widget_price_filter .ui-slider-horizontal .ui-slider-range {
