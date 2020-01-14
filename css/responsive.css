@@ -1328,13 +1328,13 @@
     .ih-item.square .info p {
         padding: 0.5em 0.4em!important;
     }
-    .ih-item.square {}
+    /* .ih-item.square {} */
     .sc_price_block .sc_price_block_description {
         height: 11em;
     }
-    .page-template-blog-learndash .post_item_excerpt:last-of-type .post_content {
-        /*margin-bottom: -6em;*/
-    }
+    /* .page-template-blog-learndash .post_item_excerpt:last-of-type .post_content {
+        margin-bottom: -6em;
+    } */
     .reviews_block .reviews_stars {
         width: 57%;
     }
